@@ -32,7 +32,7 @@ Send Me any Media or File. I can Work In Channel too. Add Me to Channel with Edi
 ╰──────[ 😎 ]───────────⍟
 """
   ABOUT_DEV_TEXT = f"""
-🧑🏻‍💻 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿: [VJ](https://t.me/+N3p0fPI5VCc5YWM1)
+🧑🏻‍💻 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿: [RSC](https://t.me/+N3p0fPI5VCc5YWM1)
  
  I am Super noob Please Support My Hard Work.
 
